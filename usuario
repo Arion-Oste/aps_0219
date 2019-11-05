@@ -1,0 +1,14 @@
+# usuario
+
+print("WELCOME\n")
+
+id = int(input("ID\n"))
+passeword = int(input("PASSAWORD\n"))
+
+print("Seja bem vindo {}".format(id))
+
+
+# if == '12345':
+#   printf("")
+#else:
+#   printf("O id ou passaword nao esta conferindo com o sistema")
